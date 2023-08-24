@@ -1,15 +1,8 @@
-.cabecalho {
-    background-color:#fdfdfd;
-    color: #000000;
-    display: flex;
-    justify-content: space-around;
+body{
+    background-color:#9D0000;
+color: #000000;
 }
 
-.cabecalho-image{
-    width: 20%;
-}
-
-.cabechalho-lista-item{
-    display: inline-block;
-    margin: 0 16px;
+.cabechalho-imagem{
+ width:20%;   
 }
